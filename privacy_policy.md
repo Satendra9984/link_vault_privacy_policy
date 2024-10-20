@@ -6,9 +6,7 @@ Welcome to Linkvault! Your privacy is important to us. This Privacy Policy expla
 Information We Collect
 Personal Information:
 
-Account Information: When you create an account, we collect your name, email address, and profile picture.
-Subscription Information: Details about your subscription plan and payment information (handled through a third-party payment processor).
-Content Data:
+Account Information: When you create an account, we collect your name, email address.
 
 Stored Content: URLs, HTML content, text highlights, and notes you save in the app.
 Advertising Data:
